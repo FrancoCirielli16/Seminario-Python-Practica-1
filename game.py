@@ -68,10 +68,3 @@ print("has respondido correctamente {} operaciones".format(correct_ans))
 #informo cuantas respuestas se respondieron  mal
 print("has respondido incorrectamente {} operaciones".format(times-correct_ans))
 print("-"*10)
-
-
-
-#FALTA
-
-#Tener en cuenta la divicion por 0 
-#Se puede mejorar usando funciones
